@@ -1,0 +1,3 @@
+{
+    "ConnectionString":"Server=SERVERNAME;Database=DBNAME;Trusted_Connection=True;",
+}

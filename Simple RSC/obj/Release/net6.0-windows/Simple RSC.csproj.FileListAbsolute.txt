@@ -1,0 +1,20 @@
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Simple RSC.exe
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Simple RSC.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\System.Text.Json.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\source\repos\ТиМП\Simple RSC\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
